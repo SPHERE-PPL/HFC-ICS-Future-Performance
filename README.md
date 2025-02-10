@@ -1,5 +1,7 @@
 # SPHERE-PPL Health Forecasting Contest - NHS ICS Performance Forecasting
 
+> [**This repo/contest is currently under construction so details may change before the start date.**]{.underline}
+
 ## Introduction[^readme-1]
 
 [^readme-1]: Adapted from BNSSG ICB Github (<https://github.com/nhs-bnssg-analytics/fpt_analysis/tree/master>)
