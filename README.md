@@ -15,8 +15,13 @@ For this contest, we are looking to forecast...
 Forecasts and reports should be saved into the submission folder, matching the template found within.
 
 ## Joining the contest & Getting Started
+In order to join the contest, you will need to fork or download the repo. 
 
-Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
+To fork the repo, simply press the "fork" button (circled in gold in the image below), which can be found at the top of this github page. Follow the instructions which will add a fork of the repo to your github account.
+
+To download the data without a github account, click the code dropdown (circled in blue in the image below) and download a zip of the data directly to your computer.
+
+![Fork or Download](https://github.com/SPHERE-PPL/forecasting-contest-template/blob/main/contest_media/fork_button.png)
 
 ## Rules
 
@@ -26,6 +31,10 @@ Here we will need details of how to fork the repo / download the data and then a
 -   All entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.
 
 ## How to Submit
+
+If you forked the repo, congratulations, you have already enetered the contest. We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
+
+If you did not fork the repo, please send an email to contest@sphere-ppl.org with a link to your public github repo where your forecast and report are stored. These will then be collated with the other entries.
 
 ## Connect with the Community
 
