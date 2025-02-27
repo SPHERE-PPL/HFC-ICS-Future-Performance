@@ -10,7 +10,7 @@ This contest builds upon work undertaken by BNSSG ICB, looking at ICS level perf
 
 ## Forecasting Outputs
 
-For this contest, we are looking to forecast...
+For this contest, we are looking to forecast one or more of the metrics included forward in time at a variety of geospatial scales.
 
 Forecasts and reports should be saved into the submission folder, matching the template found within.
 
